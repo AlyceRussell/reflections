@@ -10,3 +10,9 @@ The initialisation tells the file that it is now a git repositiory and then by
 using git commands, we can track changes that occur to the contained files.
 
 
+Q2: How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The staging area is where you can upload documents you wish to add to your
+repository. The working directory contains all files.
+
