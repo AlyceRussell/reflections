@@ -1,0 +1,12 @@
+#********************#
+#
+# Lesson 2 Reflections
+#
+#********************#
+
+Q1: What happens when you initialise a repository? Why do you need to do it?
+
+The initialisation tells the file that it is now a git repositiory and then by
+using git commands, we can track changes that occur to the contained files.
+
+
