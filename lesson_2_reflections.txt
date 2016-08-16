@@ -45,3 +45,11 @@ in the diagram the way we do?
 - The result by using the merge function is that we can see a simple graph of
 where changes were made and on what branches using the given commit messages.
 - The diagram allows us to see exactly where the changes occurred.
+
+
+Q7: What are the pros and cons of Git's automatic merging vs always doing
+merges manually?
+
+       Pros: saves time, clashes will be highlighted
+       Cons: may merge a bug or currupt code after merge
+
