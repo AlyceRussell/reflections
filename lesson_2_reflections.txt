@@ -24,3 +24,10 @@ logical change?
 
 By checking to see that a single file is in your commit. Also, make sure you
 save files regularly and leave meaningful notes about each logical commit.
+
+
+Q4: What are some situations when branching would be helpful in leeping your
+history organised? How would branches help?
+
+- Branches made be used when you have different versions of something, whether
+that be difficulty level, language, etc
