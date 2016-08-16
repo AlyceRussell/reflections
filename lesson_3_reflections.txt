@@ -47,3 +47,10 @@ and what would be harder?
 
 I would normally use email to run new code by my supervisor, though now I can
 make changes much quicker using Git and GitHub. 
+
+
+Q6: When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+- When you want to test a code
+- Make changes on a collaborative work so the coordinator can approve
