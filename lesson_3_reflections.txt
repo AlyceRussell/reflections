@@ -35,3 +35,8 @@ use one instead of another?
 	    copy
 
 
+Q4: What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+Prevent there from being a conflict when merging in future, so you're always
+working with the most up-to-date version of your code.
