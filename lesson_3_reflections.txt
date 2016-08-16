@@ -1,0 +1,12 @@
+#~~~~~~~~~~~~~~~~~~~~#
+#
+# Lesson 3 Reflection
+#
+#~~~~~~~~~~~~~~~~~~~~
+
+Q1: When would you want to create a remote repository rather than keeping all your work local?
+
+- Collaborating as a larger team with many contributors
+- For me, my supervisor in Europe wants to be able to watch how I am coding my studies for my PhD and make suggestions
+- It is usesul to have everything online if you work on different computers or travel often
+- If you are using a private repository, it is good to have a back-up of everything online
