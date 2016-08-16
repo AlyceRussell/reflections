@@ -31,3 +31,10 @@ history organised? How would branches help?
 
 - Branches made be used when you have different versions of something, whether
 that be difficulty level, language, etc
+
+
+Q5: How do diagrams help you visualise the branch structure?
+
+By allowing you to see the parent structure of each branch and what follow-
+through changes/mistakes might be present.
+
