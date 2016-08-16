@@ -38,3 +38,10 @@ Q5: How do diagrams help you visualise the branch structure?
 By allowing you to see the parent structure of each branch and what follow-
 through changes/mistakes might be present.
 
+
+Q6: What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+- The result by using the merge function is that we can see a simple graph of
+where changes were made and on what branches using the given commit messages.
+- The diagram allows us to see exactly where the changes occurred.
