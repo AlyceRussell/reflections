@@ -16,5 +16,11 @@ repository? What value do you think it offers?
 The staging area is where you can upload documents you wish to add to your
 repository. The working directory contains all files. Files are uploaded by
 using the code "git add" then "git status" to check they are in the staging
-area. Following this, "git commit" is used and a message is added using emacs.    
+area. Following this, "git commit" is used and a message is added using emacs.
 
+
+Q3: How can you use the staging area to make sure you have one commit per
+logical change?
+
+By checking to see that a single file is in your commit. Also, make sure you
+save files regularly and leave meaningful notes about each logical commit.
