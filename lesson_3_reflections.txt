@@ -7,6 +7,31 @@
 Q1: When would you want to create a remote repository rather than keeping all your work local?
 
 - Collaborating as a larger team with many contributors
-- For me, my supervisor in Europe wants to be able to watch how I am coding my studies for my PhD and make suggestions
-- It is usesul to have everything online if you work on different computers or travel often
-- If you are using a private repository, it is good to have a back-up of everything online
+- For me, my supervisor in Europe wants to be able to watch how I am coding my
+studies for my PhD and make suggestions
+- It is usesul to have everything online if you work on different computers or
+travel often
+- If you are using a private repository, it is good to have a back-up of
+everything online
+
+
+Q2: Why might you want to always pull chanegs manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+You might want to push or pull into a new branch on either the server or local
+VCS. You also might not want to include all of other peoples changes into your
+local copy, and visa versa. 
+
+
+Q3: Describe the difference between forks, clones, and branches. When would you
+use one instead of another?
+
+    Fork: To make a clone of one GitHub repository to your own GitHub repository
+    	  directly on the server
+    Clone: To make a clone of one GitHub repository or on someones computer URL
+    	   onto your computer
+    Branch: To make a new version of a file for reason of experimenting with
+    	    code, or different languages, or before committing them to working
+	    copy
+
+
