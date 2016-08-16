@@ -40,3 +40,10 @@ stored locally?
 
 Prevent there from being a conflict when merging in future, so you're always
 working with the most up-to-date version of your code.
+
+
+Q5: How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+I would normally use email to run new code by my supervisor, though now I can
+make changes much quicker using Git and GitHub. 
